@@ -21,7 +21,7 @@
 
 /* ADDRESS CONTAINER */
 #address-container {
-    background-image: url('../img/project_bg.jpg');
+    background-image: url('images/project_bg.jpg');
     background-size: cover;
     background-position-x: -130px;
     color: #FFF;
